@@ -1,0 +1,17 @@
+{
+    "devices": [
+        {
+            "id": "mg996",
+            "model": "MG-996",
+            "driver": "servo-mg996r-driver",
+            "inputs": {
+                "pwm": {
+                    "type": "pwm",
+                    "args": {
+                        "frequency": 50
+                    }
+                }
+            }
+        }
+    ]
+}
